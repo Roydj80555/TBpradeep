@@ -6,6 +6,10 @@ public class Pradeep
 	System.out.println("Big B");	
 		
 	}
+	public void m2()
+	{
+		System.out.println("8055");
+	}
 	
 	
 public static void main(String[] args) {
